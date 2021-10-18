@@ -1,4 +1,4 @@
-# VeroRoute-Custom-Components
+# VeroRoute-Custom-Components (This README is currently under update)
 A library for cusotm boards and components for veroroute. This is a public repo for compnents used by makers hobbyists,etc for quick prototyping, etc. Most of the  stuff here is made by me for personal projects.
 
 Files and software for Veroroute are [HERE](https://sourceforge.net/projects/veroroute/)
