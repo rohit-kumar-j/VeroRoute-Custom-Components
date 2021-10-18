@@ -1,9 +1,9 @@
 # VeroRoute-Custom-Components (This README is currently under update)
-A library for cusotm boards and components for veroroute. This is a public repo for compnents used by makers hobbyists,etc for quick prototyping, etc. Most of the  stuff here is made by me for personal projects.
+A library for cusotm boards and components for veroroute. This is a repo for compnents used by makers hobbyists,etc for quick prototyping, etc. Most of the  stuff here is made by me for personal projects.
 
 Files and software for Veroroute are [HERE](https://sourceforge.net/projects/veroroute/)
 
-## Above and below compoents:
+## Components Above and below the perfboard:
 When space is an issue, one may want to design a board with compoents below the perfboard. Some components have been added for the same. However, routing and component placement, within the board's footprint must be done at one's own common sense.
 
 Example: The ESP32 cam could be used over or under the perfboard
@@ -41,3 +41,9 @@ Example: The ESP32 cam could be used over or under the perfboard
 ## Contributing
 
 Create pull requests and issues for better and newer boards,etc. Kindly provide relevant sources and perhaps even project pages and other relevant links.  
+
+## Contributors
+
+| Name | About |
+|:----:|--------|
+| rkj  | [rohit-kumar-j](https://github.com/rohit-kumar-j)  |
