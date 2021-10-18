@@ -49,3 +49,4 @@ Create pull requests and issues for better and newer boards,etc. Kindly provide 
 | Name | About |
 |:----:|--------|
 | rkj  | [rohit-kumar-j](https://github.com/rohit-kumar-j)  |
+| Alex Lawrow | [darlx](https://sourceforge.net/u/dralx/profile/) |
