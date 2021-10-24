@@ -32,6 +32,12 @@ Example: The ESP32 cam could be used over or under the perfboard
 <!--  <img src="" width="200">  -->
 
 
+## Currently Avialable ICs
+
+|            Boards           | Physical Part | VeroRoute Component    | Pinout  | Comments | Part Link |
+|:---------------------------:|---------------|------------------------|---------|----------|-----------|
+| MCP23017 16-bit IO Expander | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/MCP23017%2016-bit%20IO%20Expander/MCP23017%20Image.png" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/MCP23017%2016-bit%20IO%20Expander/MCP23017%20Vrt%20Preview.PNG" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/MCP23017%2016-bit%20IO%20Expander/MCP23017%20Pinout.png" width="200"> | No Comments | LINK |
+
 ## Currently Avialable Components
 
 |      Components      | Physical Part | VeroRoute Component    | Comments | Part Link |
@@ -40,7 +46,7 @@ Example: The ESP32 cam could be used over or under the perfboard
 | Dual SPDT Switch | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Dual%20SPDT%20self-locking%20switch/Dual%20SPDT%20switch%20Image.PNG" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Dual%20SPDT%20self-locking%20switch/Dual%20SPDT%20switch%20Vrt%20Preview.PNG" width=200> | No Comments | LINK |
 | 9V Battery footprint | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/9V%20Battery/9V%20Battery%20Image.png" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/9V%20Battery/9V%20Battery%20Vrt%20Preview.PNG" width="200"> | No Comments | LINK |
 | Voltmeter-Ammeter | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Voltmeter-Ammeter/Voltmeter-Ammerter%20Image.png" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Voltmeter-Ammeter/Voltmeter-Ammerter%20Vrt%20Preview.PNG" width="200"> | No Comments | LINK |
-| Voltmeter-Ammeter | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Shrouded%20Male%20Headers/Shrouded%20headers%20Image.png" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Shrouded%20Male%20Headers/Shrouded%20headers%20Vrt%20Preview.PNG" width="200"> | No Comments | LINK |
+| 2x3 and 2x5 Male Shrouded Headers | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Shrouded%20Male%20Headers/Shrouded%20headers%20Image.png" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Shrouded%20Male%20Headers/Shrouded%20headers%20Vrt%20Preview.PNG" width="200"> | No Comments | LINK |
 
 ## Contributing
 
