@@ -13,7 +13,7 @@ Example: The ESP32 cam could be used over or under the perfboard (**Pins are fli
   <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/ESP32%20CAM/ESP32%20CAM%20Vrt%20Preview.PNG" width ="400">
 </p>
 
-## Currently Avialable Modules
+## Currently Aggregated Modules
 
 |            Boards           | Physical Part | VeroRoute Component    | Pinout/Usecase  | Comments | Part Link |
 |:---------------------------:|---------------|------------------------|-----------------|----------|-----------|
@@ -32,13 +32,13 @@ Example: The ESP32 cam could be used over or under the perfboard (**Pins are fli
 <!--  <img src="" width="200">  -->
 
 
-## Currently Avialable ICs
+## Currently Aggregated ICs
 
 |            Boards           | Physical Part | VeroRoute Component    | Pinout  | Comments | Part Link |
 |:---------------------------:|---------------|------------------------|---------|----------|-----------|
 | MCP23017 16-bit IO Expander | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/MCP23017%2016-bit%20IO%20Expander/MCP23017%20Image.png" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/MCP23017%2016-bit%20IO%20Expander/MCP23017%20Vrt%20Preview.PNG" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/MCP23017%2016-bit%20IO%20Expander/MCP23017%20Pinout.png" width="200"> | No Comments | [MCP2301](https://www.amazon.com/MCP23017-16-Bit-Expander-Serial-Interface/dp/B073R8T2H1/ref=sr_1_6?crid=1EW3ZYN88ILRG&dchild=1&keywords=MCP23017&qid=1635106702&qsid=132-6938668-2673014&sprefix=mcp23017%2Caps%2C395&sr=8-6&sres=B07X4W785H%2CB07P2H1NZG%2CB08DFNR2JW%2CB073R8T2H1%2CB07K5MTRLS%2CB082MMRNM4%2CB07GDHQC36%2CB08T9VY1JQ%2CB08X6NDW3N%2CB09FLHSM3T%2CB00NAY3UAK%2CB09F9JZ8NH%2CB086C4J549%2CB081JNG1KG%2CB07T294YTX%2CB07PMGGPN8) |
 
-## Currently Avialable Components
+## Currently Aggregated Components
 
 |      Components      | Physical Part | VeroRoute Component    | Comments | Part Link |
 |:--------------------:|---------------|------------------------|----------|---------------|
