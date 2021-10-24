@@ -40,6 +40,7 @@ Example: The ESP32 cam could be used over or under the perfboard
 | Dual SPDT Switch | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Dual%20SPDT%20self-locking%20switch/Dual%20SPDT%20switch%20Image.PNG" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Dual%20SPDT%20self-locking%20switch/Dual%20SPDT%20switch%20Vrt%20Preview.PNG" width=200> | No Comments | LINK |
 | 9V Battery footprint | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/9V%20Battery/9V%20Battery%20Image.png" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/9V%20Battery/9V%20Battery%20Vrt%20Preview.PNG" width="200"> | No Comments | LINK |
 | Voltmeter-Ammeter | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Voltmeter-Ammeter/Voltmeter-Ammerter%20Image.png" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Voltmeter-Ammeter/Voltmeter-Ammerter%20Vrt%20Preview.PNG" width="200"> | No Comments | LINK |
+| Voltmeter-Ammeter | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Shrouded%20Male%20Headers/Shrouded%20headers%20Image.png" width="200"> | <img src="https://github.com/rohit-kumar-j/VeroRoute-Custom-Components/blob/main/Shrouded%20Male%20Headers/Shrouded%20headers%20Vrt%20Preview.PNG" width="200"> | No Comments | LINK |
 
 ## Contributing
 
@@ -51,3 +52,4 @@ Create pull requests and issues for better and newer boards,etc. Kindly provide 
 |:----:|--------|
 | rkj  | [rohit-kumar-j](https://github.com/rohit-kumar-j)  |
 | Alex Lawrow | [darlx](https://sourceforge.net/u/dralx/profile/) |
+| Djeez | [djeez](https://sourceforge.net/u/djeez99/profile/) |
